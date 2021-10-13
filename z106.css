@@ -23,8 +23,8 @@ body {
 }
 
 @font-face{
-    font-family: "Lobster";
-    src: url("SVN-Lobster.ttf");
+    font-family: "SVN-Merge Regular";
+    src: url("SVN-Merge Regular.ttf");
 }
 
 .navigative ul{
@@ -67,12 +67,21 @@ body {
     height: auto;
 }
 .top-image h1{
-    font-family: Lobster;
-    color: #FFC4FC;
+    font-family: SVN-Merge Regular;
+    color: #EBD6FF;
     position: absolute;
-    top: 40%;
-    width: 400%;
-    font-size: 100px;
+    top: 50%;
+    width: 100%;
+    font-size: 80px;
+    text-align: center;
+}
+.top-image h2{
+    font-family: SVN-Merge Regular;
+    color: #EBD6FF;
+    position: absolute;
+    top: 65%;
+    width: 100%;
+    font-size: 50px;
     text-align: center;
 }
 
