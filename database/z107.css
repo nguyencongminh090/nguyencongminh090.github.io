@@ -74,9 +74,10 @@ body {
 .courses div{
     border: solid #5B5B5B 2px;
     margin: 0px 10px 10px 0px;
+    text-align: center;
 }
 .courses div img{
-    width: 50%;
+    width: 100%;
     height: auto;
     padding: 10px;
 }
