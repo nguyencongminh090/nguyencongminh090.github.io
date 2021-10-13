@@ -64,11 +64,16 @@ body {
 }
 .top-image img{
     width: 100%;
-    height: 50%;
+    height: auto;
 }
 .top-image h1{
     font-family: Lobster;
     color: #FFC4FC;
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    font-size: 100px;
+    text-align: center;
 }
 
 
