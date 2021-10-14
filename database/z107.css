@@ -79,14 +79,18 @@ body {
 .courses a div{
     border: solid #5B5B5B 2px;
     border-radius: 10px;
-    text-align: center;		
+    text-align: center;
+		box-shadow: 0px 4px 10px 0 rgba(0, 0, 0, 0.2), 0px 8px 20px 0 rgba(0, 0, 0, 0.19);
+		transition: background 2s, box-shadow 2s;
 }
 .courses a{
 	text-decoration: none;
 	color: #000000;
 }
 .courses a div:hover{
-	background: #D3D3D3;
+	background: #FCCC94;
+	box-shadow: 5px 10px 10px 0 rgba(0, 0, 0, 0.2), 5px 20px 20px 0 rgba(0, 0, 0, 0.19);
+	text-decoration: underline;
 }
 .courses div img{
     width: 100%;
