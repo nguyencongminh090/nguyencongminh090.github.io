@@ -65,25 +65,33 @@ body {
 }
 .body{
     margin: 40px 20px 0px 20px;
+    
 }
 .courses{
-    margin-top: 55px;
-    display: inline-block;
+    margin-top: 94px;
+    max-width: 100%;
+    height: auto;
+    
 }
-
 .courses div{
+    padding: 10px;
+}
+.courses a div{
     border: solid #5B5B5B 2px;
     border-radius: 10px;
-    margin: 0px 10px 10px 0px;
-    text-align: center;
+    text-align: center;		
+}
+.courses a{
+	text-decoration: none;
+	color: #000000;
+}
+.courses a div:hover{
+	background: #D3D3D3;
 }
 .courses div img{
     width: 100%;
     height: auto;
     padding: 10px;
-}
-.courses div p{
-    padding: 0px 0px 0px 10px;
 }
 
 
