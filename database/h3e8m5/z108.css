@@ -107,14 +107,22 @@ body {
 	color: #DBDBDB;
 	background: #494949;
 }
-#background{
-	background: fixed url("background.jpg");
-}
 
 .intro h1{
 		text-align: center;
 		font-size: 5vmax;
 		text-decoration: underline;
+}
+#no-background{
+		background: #ffffff;
+}
+#center{
+		text-align: center;
+}
+#center iframe{
+		width: 80vmax;
+		height: 40vmax;
+		border: none;
 }
 
 
