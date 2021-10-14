@@ -96,8 +96,14 @@ body {
     width: 100%;
     height: auto;
     padding: 10px;
+		border-radius: 7%;
+		border: solid 10px rgba(#FF0000, 0.5);
 }
-
+.footer {
+	padding: 50px;
+	color: #DBDBDB;
+	background: #494949;
+}
 
 
 
