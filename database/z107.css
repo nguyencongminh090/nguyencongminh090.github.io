@@ -97,7 +97,7 @@ body {
     height: auto;
     padding: 10px;
 		border-radius: 7%;
-		border: solid 10px rgba(#FF0000, 0.5);
+		border: solid 10px rgba(255, 0, 0, 0.5);
 }
 .footer {
 	padding: 50px;
