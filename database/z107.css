@@ -103,6 +103,7 @@ body {
 		border-radius: 7%;
 }
 .footer {
+	width: 100%;
 	padding: 50px;
 	color: #DBDBDB;
 	background: #494949;
